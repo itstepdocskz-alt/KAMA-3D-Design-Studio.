@@ -1,0 +1,6 @@
+{
+  "name": "KAMA | Kamali Alsharov — 3D Designer Portfolio",
+  "description": "Портфолио 3D-дизайнера Kamali Alsharov: 3D-моделирование, архитектурная визуализация, дизайн интерьеров и автомобили.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
